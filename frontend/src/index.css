@@ -1,1 +1,14 @@
+:root {
+    --color1: #2C3E50; /* Blu Scuro */
+    --color2: #34495E; /* Blu Medio */
+    --color3: #5D6D7E; /* Blu Chiaro */
+    --color4: #1ABC9C; /* Blu Acqua */
+    --color5: #AAB7B8; /* Blu Polvere */
+}
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
