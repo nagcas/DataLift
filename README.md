@@ -26,7 +26,7 @@ Offre strumenti per analisi approfondite e una rappresentazione visiva chiara e 
 ### **Frontend**  
 - ⚛️ **React.js**  
 - 📦 Librerie principali:  
-  - [@mui/material](https://mui.com/) per lo styling.  
+  - [Bootstrap](https://getbootstrap.com/) per lo styling e i componenti UI.   
   - [Axios](https://axios-http.com/) per le richieste API.  
   - [React-Leaflet](https://react-leaflet.js.org/) per le mappe.  
   - [Chart.js](https://www.chartjs.org/) per i grafici.  
@@ -44,16 +44,17 @@ Offre strumenti per analisi approfondite e una rappresentazione visiva chiara e 
 ### **Frontend**  
 ```json
 {
-  
   "dependencies": {
-    "@ant-design/icons": "^5.5.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.22.1",
     "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "chart.js": "^4.4.6",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
     "react-dom": "^18.3.1",
     "react-leaflet": "^4.2.1",
     "react-scripts": "5.0.1",
