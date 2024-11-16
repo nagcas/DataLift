@@ -13,15 +13,6 @@ Offre strumenti per analisi approfondite e una rappresentazione visiva chiara e 
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
-### Frontend
-- ⚛️ React.js
-- 📦 Librerie principali:
-   - Ant Design per lo styling e i componenti UI.
-   - Axios per le richieste API.
-   - React-Leaflet per le mappe.
-   - Chart.js per i grafici.
-
 ## 🛠️ **Tecnologie Utilizzate**
 ### **Frontend**  
 - ⚛️ **React.js**  
