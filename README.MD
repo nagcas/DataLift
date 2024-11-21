@@ -37,7 +37,6 @@ Assicurati di avere i seguenti strumenti installati:
 
 - [Python 3.8+](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/en/download/)
-- [Docker](https://www.docker.com/get-started) (facoltativo per l'esecuzione tramite container)
 
 ---
 
@@ -128,18 +127,6 @@ datalift/
 │
 └── .gitignore              # File per ignorare file inutili su Git
 ```
-
----
-
-## Contribuire
-
-1. Fork questo repository.
-2. Crea un branch per la tua feature (`git checkout -b feature-nome`).
-3. Commit i tuoi cambiamenti (`git commit -am 'Aggiungi nuova feature'`).
-4. Pusha nel tuo branch (`git push origin feature-nome`).
-5. Crea una pull request.
-
----
 
 ## Licenza
 
