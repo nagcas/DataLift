@@ -1,0 +1,18 @@
+# Ignore environment folders
+env/
+*.env
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs from both backend and frontend
+frontend/dist/
+backend/static/
+
+# Logs
+*.log
